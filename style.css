@@ -5,7 +5,6 @@ body {
     background: #1e1e2f;
     color: #f4f4f9;
     line-height: 1.6;
-
 }
 
 header {
@@ -13,32 +12,31 @@ header {
     color: white;
     text-align: center;
     padding: 2em 0;
-    background-image: url( 'AI-robot_09.jpg');
+    background-image: url('WhatsApp Image 2025-01-16 at 00.45.35_7a9e5389.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
-main{
-    background-image: url( '392810.jpg' );
+
+main {
+    background-image: url('WhatsApp Image 2025-01-16 at 00.45.33_4fcdf974.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-
-
 }
 
- h1{
-    text-shadow: 3px 3px 5px rgb(14, 130, 213),  -3px -3px 5px rgb(237, 11, 162);
+h1 {
+    text-shadow: 3px 3px 5px rgb(14, 130, 213), -3px -3px 5px rgb(237, 11, 162);
 }
 
-h2{
+h2 {
     color: rgb(160, 56, 129);
-    text-shadow: 3px 3px 10px rgb(89, 92, 95),  -3px -3px 10px rgb(89, 92, 95);
+    text-shadow: 3px 3px 10px rgb(89, 92, 95), -3px -3px 10px rgb(89, 92, 95);
 }
 
-h4{ 
+h4 {
     color: rgb(160, 56, 129);
-    text-shadow: 3px 3px 10px rgb(14, 130, 213),  -3px -3px 10px rgb(237, 11, 162);
+    text-shadow: 3px 3px 10px rgb(14, 130, 213), -3px -3px 10px rgb(237, 11, 162);
 }
 
 nav ul {
@@ -46,8 +44,7 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
-    background:  rgb(114, 167, 210);
-
+    background: rgb(114, 167, 210);
 }
 
 nav ul li {
@@ -56,11 +53,11 @@ nav ul li {
 
 nav ul li a {
     font-size: 1.2em;
-    color: rgb(30, 30, 47) ;
+    color: rgb(30, 30, 47);
 }
 
 nav ul li a:hover {
-    color:  rgb(160, 56, 129);
+    color: rgb(160, 56, 129);
 }
 
 main {
@@ -74,7 +71,7 @@ section {
 
 footer {
     background: rgb(114, 167, 210);
-    color:  rgb(30, 30, 47) ;
+    color: rgb(30, 30, 47);
     text-align: center;
-    padding: 1em 0;
+    padding: 1em 0;
 }
